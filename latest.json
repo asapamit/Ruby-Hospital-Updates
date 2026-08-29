@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.3.0.0",
-  "downloadUrl": "",
+  "latestVersion": "0.0.0.0",
+  "downloadUrl": "https://github.com/asapamit/Ruby-Hospital-Updates",
   "releaseNotes": "Public update repository initialized. No production binary has been published yet.",
   "forceUpdate": false,
   "sha256": ""
