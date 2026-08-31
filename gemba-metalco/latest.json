@@ -1,7 +1,7 @@
-{
-  "latestVersion": "1.0.0.1",
-  "downloadUrl": "",
-  "releaseNotes": "GembaMetalCo update channel initialized. No newer update has been published yet.",
-  "forceUpdate": false,
-  "sha256": ""
+﻿{
+    "latestVersion":  "1.0.0.2",
+    "downloadUrl":  "https://github.com/asapamit/Ruby-Hospital-Updates/releases/download/gemba-v1.0.0.2/GembaMetalCo-1.0.0.2.zip",
+    "releaseNotes":  "GembaMetalCo update v1.0.0.2",
+    "forceUpdate":  false,
+    "sha256":  "2a29a812c14607fac845cd34625193d912d16d3cac45981f2437ac748cb55099"
 }
