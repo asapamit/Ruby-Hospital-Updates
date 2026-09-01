@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.0.2",
-    "downloadUrl":  "https://github.com/asapamit/Ruby-Hospital-Updates/releases/download/snib-v1.0.0.2/SNIBIntegration-1.0.0.2.zip",
-    "releaseNotes":  "SNIB Integration update v1.0.0.2",
+    "latestVersion":  "1.0.0.3",
+    "downloadUrl":  "https://github.com/asapamit/Ruby-Hospital-Updates/releases/download/snib-v1.0.0.3/SNIBIntegration-1.0.0.3.zip",
+    "releaseNotes":  "SNIB Integration update v1.0.0.3",
     "forceUpdate":  false,
-    "sha256":  "c0d0f4f3014c190fabc86e742de4ea323d81694828894811a8ba5ef11ad0931a"
+    "sha256":  "b3c5237f73bd7b0f86e216b3c2a6daf2be0826e98165534c1b7d9f3e9cfc1ca5"
 }
